@@ -1,0 +1,10 @@
+{
+  "helios": {
+    "sounds": [
+      {
+        "name": "faraway-arctic-escape:helios",
+        "stream": true
+      }
+    ]
+  }
+}
