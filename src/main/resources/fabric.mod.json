@@ -20,7 +20,14 @@
 		],
 		"fabric-datagen": [
 			"sculkrange.faraway.arctic.FarawayArcticEscapeDataGenerator"
-		]
+		],
+		"terrablender": [
+			"sculkrange.faraway.arctic.world.biome.ModTerraBlenderAPI"
+		],
+		"server": [],
+		"client": [],
+		"fabric-gametest": [],
+		"preLaunch": []
 	},
 	"mixins": [
 		"faraway-arctic-escape.mixins.json"

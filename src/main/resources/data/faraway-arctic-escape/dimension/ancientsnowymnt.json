@@ -1,37 +1,13 @@
 {
-  "type": "minecraft:overworld",
+  "type": "faraway-arctic-escape:ancientsnowymnt",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "minecraft:overworld",
+    "settings": "faraway-arctic-escape:ancientsnowymnt",
     "biome_source": {
       "type": "minecraft:multi_noise",
       "biomes": [
         {
-          "biome": "minecraft:snowy_slopes",
-          "parameters": {
-            "temperature": 0.65,
-            "humidity": 0,
-            "continentalness": 0,
-            "erosion": 0,
-            "weirdness": 0.1,
-            "depth": 0,
-            "offset": 0
-          }
-        },
-        {
-          "biome": "minecraft:snowy_plains",
-          "parameters": {
-            "temperature": 0,
-            "humidity": 0,
-            "continentalness": 0,
-            "erosion": 0,
-            "weirdness": 0,
-            "depth": 0,
-            "offset": 0
-          }
-        },
-        {
-          "biome": "minecraft:snowy_taiga",
+          "biome": "faraway-arctic-escape:ancientSnowyPlains",
           "parameters": {
             "temperature": 0,
             "humidity": 0.2,
