@@ -126,5 +126,6 @@ public class ModBiomes {
                         .moodSound(BiomeMoodSound.CAVE)
                         .music(MusicType.createIngameMusic(RegistryEntry.of(ModSounds.HELIOS))).build())
                 .build();
+        }
     }
-}
+

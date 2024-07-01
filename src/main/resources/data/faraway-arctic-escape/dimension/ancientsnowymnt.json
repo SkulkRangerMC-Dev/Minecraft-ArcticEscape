@@ -7,7 +7,7 @@
       "type": "minecraft:multi_noise",
       "biomes": [
         {
-          "biome": "faraway-arctic-escape:ancientSnowyPlains",
+          "biome": "faraway-arctic-escape:mountain_plains",
           "parameters": {
             "temperature": 0,
             "humidity": 0.2,
