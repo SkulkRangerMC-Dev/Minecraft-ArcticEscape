@@ -20,7 +20,7 @@ public class ModDimensions {
     public static final RegistryKey<World> ANCIENT_SNOWY_MNT_LEVEL_KEY = RegistryKey.of(RegistryKeys.WORLD,
             new Identifier(FarawayArcticEscape.MOD_ID, "ancientsnowymnt"));
     public static final RegistryKey<DimensionType> ANCIENT_MOUNTAIN_TYPE = RegistryKey.of(RegistryKeys.DIMENSION_TYPE,
-            new Identifier(FarawayArcticEscape.MOD_ID, "ancientsnowymnt_type"));
+            new Identifier(FarawayArcticEscape.MOD_ID, "ancientsnowymnt"));
 
     public static void bootstrapType(Registerable<DimensionType> context) {
         context.register(ANCIENT_MOUNTAIN_TYPE, new DimensionType(
